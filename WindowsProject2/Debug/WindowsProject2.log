@@ -1,0 +1,13 @@
+﻿  sCar.cpp
+  sElectroCar.cpp
+  sGasEngine.cpp
+  sHybrid.cpp
+  test_task.cpp
+c:\users\user\downloads\testtask\windowsproject2\windowsproject2\test_task.cpp(45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\user\downloads\testtask\windowsproject2\windowsproject2\test_task.cpp(51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\user\downloads\testtask\windowsproject2\windowsproject2\test_task.cpp(57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\user\downloads\testtask\windowsproject2\windowsproject2\test_task.cpp(63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+  Создание кода...
+c:\users\user\downloads\testtask\windowsproject2\windowsproject2\scar.cpp(44): warning C4715: sCar::getFuturePos: значение возвращается не при всех путях выполнения
+  WindowsProject2.vcxproj -> C:\Users\User\Downloads\TestTask\WindowsProject2\Debug\Test_task_proj.exe
